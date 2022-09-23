@@ -1,8 +1,8 @@
 {
   "files": {
     "main.css": "https://mineboom32.github.io/csb-edhwk6/static/css/main.f29ae65a.chunk.css",
-    "main.js": "https://mineboom32.github.io/csb-edhwk6/static/js/main.dbc633e2.chunk.js",
-    "main.js.map": "https://mineboom32.github.io/csb-edhwk6/static/js/main.dbc633e2.chunk.js.map",
+    "main.js": "https://mineboom32.github.io/csb-edhwk6/static/js/main.9a8e886a.chunk.js",
+    "main.js.map": "https://mineboom32.github.io/csb-edhwk6/static/js/main.9a8e886a.chunk.js.map",
     "runtime-main.js": "https://mineboom32.github.io/csb-edhwk6/static/js/runtime-main.46915c4b.js",
     "runtime-main.js.map": "https://mineboom32.github.io/csb-edhwk6/static/js/runtime-main.46915c4b.js.map",
     "static/js/2.a4e7820e.chunk.js": "https://mineboom32.github.io/csb-edhwk6/static/js/2.a4e7820e.chunk.js",
@@ -15,6 +15,6 @@
     "static/js/runtime-main.46915c4b.js",
     "static/js/2.a4e7820e.chunk.js",
     "static/css/main.f29ae65a.chunk.css",
-    "static/js/main.dbc633e2.chunk.js"
+    "static/js/main.9a8e886a.chunk.js"
   ]
 }
